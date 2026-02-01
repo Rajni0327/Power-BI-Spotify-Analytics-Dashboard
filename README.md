@@ -1,7 +1,7 @@
 # 🎵 Spotify Analysis Dashboard
 
+ A comprehensive, multi-page analytics dashboard for visualizing Spotify music data — covering song metrics, artist performance, popularity trends, and album insights.
 
-A comprehensive, multi-page analytics dashboard for visualizing Spotify music data — covering song metrics, artist performance, popularity trends, and album insights.
 ---
 
 ## 📑 Pages Overview
