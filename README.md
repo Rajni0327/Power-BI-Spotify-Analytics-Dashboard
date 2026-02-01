@@ -1,12 +1,6 @@
 # 🎵 Spotify Analysis Dashboard
 
 A comprehensive, multi-page analytics dashboard for visualizing Spotify music data — covering song metrics, artist performance, popularity trends, and album insights.
-
-![Home Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Home%20page.png)
-![Overview Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Overview%20page.png)
-![Artists Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Artists%20page.png)
-![Songs Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Songs%20page.png)
-
 ---
 
 ## 📑 Pages Overview
@@ -24,6 +18,9 @@ The dashboard is structured into **four pages**, each serving a distinct analyti
 
 ## 🏠 Page 1 — Home
 
+![Home Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Home%20page.png)
+
+
 The **Home** page is the landing screen of the dashboard. It features:
 
 - The **Spotify logo** prominently displayed as the central brand element.
@@ -35,6 +32,8 @@ This page acts as the gateway — guiding users into the rest of the dashboard w
 ---
 
 ## 📊 Page 2 — Overview
+
+![Overview Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Overview%20page.png)
 
 The **Overview** page delivers a bird's-eye view of the entire dataset through a mix of KPI cards, donut charts, and time-series visualizations.
 
@@ -58,6 +57,8 @@ The **Overview** page delivers a bird's-eye view of the entire dataset through a
 ---
 
 ## 🎤 Page 3 — Artists
+
+![Artists Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Artists%20page.png)
 
 The **Artists** page zooms into artist-level performance with three dedicated chart panels and a detailed data table.
 
@@ -83,6 +84,8 @@ The scrollable table at the bottom includes per-song details:
 ---
 
 ## 🎶 Page 4 — Songs
+
+![Songs Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Songs%20page.png)
 
 The **Songs** page focuses on song-level and album-level analytics, combining three chart panels with a comprehensive data table.
 
