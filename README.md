@@ -2,7 +2,10 @@
 
 A comprehensive, multi-page analytics dashboard for visualizing Spotify music data — covering song metrics, artist performance, popularity trends, and album insights.
 
-![Dashboard Preview](https://i.imgur.com/placeholder.png)
+![Home Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Home%20page.png)
+![Overview Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Overview%20page.png)
+![Artists Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Artists%20page.png)
+![Songs Preview](https://github.com/Rajni0327/Power-BI-Spotify-Analytics-Dashboard/blob/main/Songs%20page.png)
 
 ---
 
@@ -60,10 +63,10 @@ The **Artists** page zooms into artist-level performance with three dedicated ch
 
 ### Charts
 
-- **Songs by Artist** *(Horizontal Bar Chart)* — Distinct songs per artist. Taylor Swift dominates with **85** tracks; Travis Scott (30), Drake (27), Bad Bunny (22), Beyoncé (17), Kendrick Lamar (17), and Ariana Grande (15) follow.
-- **Popularity by Artist** *(Horizontal Bar Chart)* — Total popularity aggregated by artist. Taylor Swift leads massively at **16M**, with Billie Eilish (0.08M), Sabrina Carpenter (0.07M), The Weeknd (0.06M), and Arctic Monkeys (0.05M) in the tier below.
-- **Songs by Artist — Position 1 Hits** *(Horizontal Bar Chart)* — Artists ranked by number of #1 position hits. Lady Gaga leads with **77**, followed by Jung Kook (69), Sabrina Carpenter (51), Esbalo (40), Benson Boone (34), and Tate McRae (34).
-
+- **Songs by Artist** *(Horizontal Bar Chart)* — Distinct songs per artist. 
+- **Popularity by Artist** *(Horizontal Bar Chart)* — Total popularity aggregated by artist.  
+- **Songs by Artist — Position 1 Hits** *(Horizontal Bar Chart)* — Artists ranked by number of #1 position hits.
+  
 ### Data Table
 
 The scrollable table at the bottom includes per-song details:
@@ -85,9 +88,9 @@ The **Songs** page focuses on song-level and album-level analytics, combining th
 
 ### Charts
 
-- **Songs by Artist** *(Horizontal Bar Chart)* — Distinct artists contributing songs, sorted by count. *Daylight* and *Seven* top with **3** distinct artist credits each; several songs (*All My…*, *AMG*, *Angel…*, etc.) each have **2**.
-- **Songs by Popularity** *(Horizontal Bar Chart)* — Individual songs ranked by total popularity. *"I Wanna…"* leads at **51K**, *"Cruel S…"* at **50K**, *"As It …"* at **35K**, and so on down to **30K**.
-- **Avg Track per Album** *(Horizontal Bar Chart)* — Average number of tracks per album, grouped by artist. John Legend leads with **119**, followed by Oasis (40), Morgan (32), Nat King Cole (28), and Lil Uzi Vert (26).
+- **Songs by Artist** *(Horizontal Bar Chart)* — Distinct artists contributing songs, sorted by count. 
+- **Songs by Popularity** *(Horizontal Bar Chart)* — Individual songs ranked by total popularity. 
+- **Avg Track per Album** *(Horizontal Bar Chart)* — Average number of tracks per album, grouped by artist. 
 
 ### Data Table
 
